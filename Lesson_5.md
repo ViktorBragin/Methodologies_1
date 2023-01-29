@@ -8,3 +8,4 @@
 
 ## Решение:
 
+![kanban pic](kanban.JPG)
